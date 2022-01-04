@@ -35,3 +35,11 @@ print(len(dict1), 'elements')
 # List of keys of a dictionary
 print('\nList of keys of a dictionary')
 print(dict1.keys())
+
+# List of values of a dictionary
+print('\nList of values of a dictionary')
+print(dict1.values())
+
+# Get a list of tuples with keys and values
+print("\nGet a list of tuples with keys and values")
+print(dict1.items())
