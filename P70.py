@@ -43,3 +43,17 @@ print(dict1.values())
 # Get a list of tuples with keys and values
 print("\nGet a list of tuples with keys and values")
 print(dict1.items())
+
+# Get value for a coresponding key
+print("\nGet value for a coresponding key")
+print(dict1.get("Mohan"))
+
+# Delete an items with given key
+print('\nDelete an items with given key')
+del dict1['Ram']
+print(dict1)
+
+# Clear all elements of a dictionary
+print("\nClear all elements of a dictionary")
+dict1.clear()
+print(dict1)
