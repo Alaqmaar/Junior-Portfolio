@@ -23,6 +23,11 @@ print('\nTraversing a dictionary')
 for key in dict1:
     print(str(key) + ":" + str(dict1[key]))
 
+# Alternative traversing a dictionary
+print("\nAlternative traversing a dictionary")
+for key, value in dict1.items():
+    print(str(key) + ":"  + str(value))
+
 # Length of a dictionary
 print('\nLength of a dictionary')
 print(len(dict1), 'elements')
