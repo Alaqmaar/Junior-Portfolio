@@ -3,7 +3,7 @@ list1 = [2, 4, 6, 8, 10, 12]
 print(list1)
 
 # List with different data types
-list2 = = [100, 23.5, 'Hello']
+list2 = [100, 23.5, 'Hello']
 print(list2)
 
 # Nested List

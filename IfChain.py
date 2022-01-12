@@ -1,4 +1,3 @@
- Write a program to find the grade of a student when grades are allocated as given in the table below
 # ++++++++++++++++++
 # + Above 90%  + A +
 # + 80% to 90% + B +
